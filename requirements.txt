@@ -6,3 +6,4 @@ jupyter>=1.0
 ipykernel>=6.29
 matplotlib>=3.9
 neo4j_viz[gds]>=0.3
+ownership-rules @ https://github.com/Mattbusel/ownership-rules/releases/download/v0.2.0/ownership_rules-0.2.0-py3-none-any.whl
